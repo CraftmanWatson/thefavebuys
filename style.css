@@ -162,7 +162,6 @@ body {
     font-family: "Pliant";
     font-size: 30px;
     margin: 0px;
-    text-decoration: underline;
 }
 .about p {
     font-family: "Pliant";
@@ -236,7 +235,6 @@ body {
     font-family: "Pliant";
     font-size: 0.9rem;
     color: #1a1a1a;
-    text-decoration: underline;
     cursor: pointer;
 }
 .footer {
