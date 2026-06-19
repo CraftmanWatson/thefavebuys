@@ -73,6 +73,7 @@ body {
     background: none;
     margin-top: 20px;
     cursor: pointer;
+    color: var(--secondary-color);
 }
 .hero img {
     width: 450px;
