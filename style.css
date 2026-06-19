@@ -274,6 +274,9 @@ body {
 }
 
 @media (max-width: 768px) {
+    .header-container {
+        width: 90%;
+    }
     .header-container .navBtn {
         display: flex;
         height: 60px;
